@@ -1,5 +1,7 @@
+# KEEP LEARNING
+### This is clone of a repo found on the internet, for Blockship community to benefit from the knowledge! 
+
 # Resources Sharing Document
-### For contributions kindly create a PR.
 
 The contents of this repository will help you launch a career in Blockchain development. It contains useful website, courses, tutorials, articles  and books for blockchain enthusiasts.Learning resources on how to deploy smart contracts on Ethereum, build DApps, DeFi, DEX, DAO, NFTs and Token protocol.
 
